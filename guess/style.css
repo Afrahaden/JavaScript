@@ -1,0 +1,28 @@
+body{
+    background-color: #333232;
+}
+h3{
+    color: red;
+}
+#container{
+    background-color: #0e2431;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #f5e4c3;
+    text-align: center;
+    width: 50%;
+}
+
+p{
+    color: #fff;
+}
+#userInput{
+    width: 100px;
+    margin: 25px auto;
+}
+#btn{
+    margin: 25px auto auto 5px;
+}
+#outputtext{
+    color: rgb(240, 140, 9);
+}
